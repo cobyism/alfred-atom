@@ -1,4 +1,8 @@
-alfred-workflow
+Alfred Workflow
 ===============
 
-An Alfred workflow to open files and folders using Atom.
+An [Alfred](http://www.alfredapp.com/) workflow to open files and folders using Atom.
+
+## License
+
+MIT. [See LICENSE](./LICENSE).
